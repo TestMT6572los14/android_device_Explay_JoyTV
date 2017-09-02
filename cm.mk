@@ -12,7 +12,7 @@ PRODUCT_LOCALES := ru_RU en_US en_AU en_IN fr_FR it_IT es_ES et_EE de_DE nl_NL c
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := JoyTV
-PRODUCT_NAME := lineage_JoyTV
+PRODUCT_NAME := cm_JoyTV
 PRODUCT_BRAND := Explay
 PRODUCT_MODEL := Explay JoyTV
 PRODUCT_MANUFACTURER := Explay
